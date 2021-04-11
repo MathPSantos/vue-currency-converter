@@ -24,6 +24,6 @@ export default {
   align-items: center;
   justify-content: center;
 
-  background: #12A286;
+  background: var(--green-200);
 }
 </style>
